@@ -121,7 +121,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Button  tag="a" color="primary" wideMobile href="http://localhost:3000/markets" >Open App</Button>
+                        <Button  tag="a" color="primary" wideMobile href="https://trinity-front-end-3xr4wr.spheron.app/" >Open App</Button>
                       </li>
                     </ul>}
                 </div>

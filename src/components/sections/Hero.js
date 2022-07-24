@@ -53,11 +53,11 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-              Fight climate change and mint NFT bonds  with Trinity Protocol , a digital currency backed by real carbon assets.
+              Fight climate change and mint NFT bonds with Trinity Protocol , a digital currency backed by real carbon assets.
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="http://localhost:3000/markets">
+                  <Button tag="a" color="primary" wideMobile href="https://trinity-front-end-3xr4wr.spheron.app/">
                     Get started
                     </Button>
                 </ButtonGroup>
